@@ -3,5 +3,3 @@ This is a file created remotely on GiHub
 1 - This is a local change
 
 2 - This is a new change - the second numbered change so far
-
-3 - This is a change that will be pushed to remote
